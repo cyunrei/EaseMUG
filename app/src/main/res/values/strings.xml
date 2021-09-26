@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EaseMUG</string>
+    <string name="accessibility_service_description">EaseMUG can automatically turn on DND mode when you play MUG to avoid the impact of floating notifications on your gaming experience.</string>
+</resources>
